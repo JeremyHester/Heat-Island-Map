@@ -38,12 +38,10 @@ with st.sidebar:
     st.sidebar.title("About")
     st.sidebar.info(
         """
-        This web [app](https://share.streamlit.io/giswqs/streamlit-template) is maintained by [Qiusheng Wu](https://wetlands.io). You can follow me on social media:
-            [GitHub](https://github.com/giswqs) | [Twitter](https://twitter.com/giswqs) | [YouTube](https://www.youtube.com/c/QiushengWu) | [LinkedIn](https://www.linkedin.com/in/qiushengwu).
-        
-        Source code: <https://github.com/giswqs/streamlit-template>
+        This web app is used for Texas State Ingram School of Engineering with the team 1.09 Heat Island 2 project (H.I.K.E) 
+        Source code: <https://github.com/JeremyHester/Heat-Island-Map>
 
-        More menu icons: <https://icons.getbootstrap.com>
+       
     """
     )
 
